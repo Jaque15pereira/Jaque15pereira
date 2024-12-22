@@ -38,6 +38,7 @@ ChatGPT：
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice.
 
 ## 👨‍💻 Expert
+<Jaqueline Pereira
 
   <a href="https://github.com/Jaque15pereira/Jaque15pereira">
     GitHub</a>&nbsp;|&nbsp;
