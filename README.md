@@ -8,7 +8,7 @@
 <p align="center">
     preview do podcast
 </p>
-
+<p align="center">
 <a href="https://github.com/Jaque15pereira/Jaque15pereira/blob/PODCAST/Podcast%20-%20Editado.MP3" title="podcast - Editado.MP3"> Clique aqui para escutar</a>
 
 # Projeto PODCAST Gerado por I.A.s
