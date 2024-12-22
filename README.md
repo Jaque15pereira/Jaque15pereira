@@ -1,44 +1,51 @@
 <p align="center">
-   </p>
+<img 
+    src="https://github.com/Jaque15pereira/Jaque15pereira/blob/PODCAST/Liga%20Feminina.png"
+    width="300"
+/>
+</p>
 
-# Projeto EBOOK Gerado por I.A.s
+<p align="center">
+    preview do podcast
+</p>
+
+<a href="https://github.com/Jaque15pereira/Jaque15pereira/blob/PODCAST/Podcast%20-%20Editado.MP3" title="podcast - Editado.MP3"> Clique aqui para escutar</a>
+
+# Projeto PODCAST Gerado por I.A.s
 
 ----------------
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluna na plataforma da [DIO](https://dio.me)
-
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
-
-<a href="https://github.com/Jaque15pereira/Jaque15pereira/blob/main/EBook%20Disputa%20nas%20Cortes%20RJ%20no%20Mercado%20Banc%C3%A1rio.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [ElevenLabs](https://beta.elevenlabs.io/)
+- [Capcut](https://www.capcut.com/pt-br/)
+
+## ✨ Como foi feito ?
+
+- Roteiro e capa gerado via chatgpt
+- Audio gerado pela elevenLabs
+- Capcut para tratar aúdio e adicionar sons de fundo
+
+## 📚 Materiais
+
+- [Notion Template](https://www.notion.so/164e2240ea728188b4c6ce2f4c048d19?v=164e2240ea7281b88e42000ce625a1a1)
+- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
 
-## 🧠 Prompts
+## 🛠️ Execução
+
+Utilizei os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, utilizando o passo a passo abaixo.
+- 🤖 1. Usei os prompts de roteiro e artes no `chagpt`
+- 🤖 2. Usei os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 
 
-ChatGPT：
-
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook executivo sobre o tema Recuperação Judicial, o ebook é do nicho de bancário e o subnicho é de judiciario, o título deve ser épico e curto, e tenha uma temática de disputa no título, liste 5 variações de títulos                                  |                                                        
-| conteúdo | Faça um texto para ebook, com foco em recuperação judicial, listando os principais desafios enfrentados pelo setor bancário para recuperação do crédito inadimplente devido ao aumento de empresas em recuperação judicial que possuem Planos de Recuperação Judicial aprovados, em juízo, com condições de pagamento que dificultam a recuperação do crédito pelo credor. Neste cenário, apresente soluções para os bancos criarem mitigadores de risco na concessão e manutenção dos créditos concedidos de modo a adotar medidas junto aos devedores antes da recuperação judicial, bem como, recuperarem os créditos inadimplidos de uma empresa entra em recuperação judicial {REGRAS} Apresente introdução e conclusão Explique sempre de uma maneira simples.  Deixe o texto enxuto Sempre traga exemplos de negociações com empresas em contextos reais|
- | imagem | crie uma imagem com fundo azul de uma disputa entre banqueiros e juiz, a imagem deve conter notas de dinheiro na moeda real, e demonstrar vantagem na disputa ao juiz   |
-
-## ✨ Features
-
-- Conteúdo e imagem gerado via ChatGPT
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice.
 
 ## 👨‍💻 Expert
-:)Jaqueline Pereira
+Jaqueline Pereira
 
   <a href="https://github.com/Jaque15pereira/Jaque15pereira">
     GitHub</a>&nbsp;|&nbsp;
