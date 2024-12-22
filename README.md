@@ -9,7 +9,7 @@
     preview do podcast
 </p>
 <p align="center">
-<a href="https://github.com/Jaque15pereira/Jaque15pereira/blob/PODCAST/Podcast%20-%20Editado.MP3" title="podcast - Editado.MP3"> Clique aqui para escutar</a>
+<a href="https://github.com/Jaque15pereira/Jaque15pereira/blob/PODCAST/Liga%20da%20IA%20Mulheres%20que%20Inspiram.MP3" title="Liga da IA Mulheres que Inspiram.MP3"> Clique aqui para escutar</a>
 
 # Projeto PODCAST Gerado por I.A.s
 
